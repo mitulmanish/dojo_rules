@@ -4,3 +4,4 @@ My favourite code school path are Ruby and Git.
 *Ruby
 *Git
 *Android
+*rebase
